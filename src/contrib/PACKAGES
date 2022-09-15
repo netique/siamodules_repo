@@ -1,0 +1,7 @@
+Package: SIAmoduleCAT
+Version: 0.0.0.9000
+Depends: R (>= 2.10)
+Imports: magrittr
+License: GPL (>= 3)
+MD5sum: 3f562b1736cbb2cf02eb6a621cf7cc82
+NeedsCompilation: no
